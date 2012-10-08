@@ -1,0 +1,112 @@
+# Alice
+DNS Primario: 212.216.112.112
+DNS Secondario: 212.216.172.62
+
+# Alice Home
+DNS Primario: 85.37.17.7
+DNS Secondario: 85.38.28.95
+
+# Alice Home (Senza Funzione autosearch)
+DNS Primario: 62.211.69.170
+DNS Secondario: 212.48.4.30
+
+# Alice Business
+DNS Primario: 85.37.17.40
+
+DNS Primario: 195.99.125.2
+DNS Secondario: 195.99.125.3
+
+DNS Primario: 151.99.125.1
+DNS Secondario: 151.99.0.100
+
+# Tin
+DNS Primario: 194.243.154.62
+DNS Secondario: 195.31.190.31
+
+# Infostrada libero
+DNS Primario: 193.70.192.25
+DNS Secondario: 193.70.152.25
+
+# Fastweb
+DNS Primario: 213.140.2.12
+DNS Secondario: 213.140.2.21
+
+# TeleTu
+DNS Primario: 208.67.222.222
+DNS Secondario: 208.67.220.220
+
+Alice
+
+DNS Secondario:	212.216.112.112
+DNS Secondario: 212.216.172.122
+
+
+Tin
+
+SMTP Server
+dns1.village.tin.it	 195.14.96.135	 mail.tin.it
+dnsca2.tin.it	 212.216.172.222
+dnscache2.tin.it	 212.216.172.162
+dns2.tin.it	 194.243.154.51
+dnscache1.tin.it	 212.216.172.62
+dns1.fullcompany.telecomitalia.it	 212.131.30.42
+dnsca.tin.it	 212.216.112.112
+dnsca.tin.it	 195.31.190.31
+dns.tin.it	 194.243.154.62
+Interbusiness
+
+r-dns.interbusiness.it	 151.99.125.1	 mail.cs.interbusiness.it
+dns2.interbusiness.it	 151.99.125.3
+dns.interbusiness.it	 151.99.125.2
+server-b.cs.interbusiness.it	 151.99.250.2
+Infostrada
+
+ns2.libero.it	 193.70.192.100	 smtp.libero.it
+ns1.libero.it	 195.210.91.100
+cns-a.libero.it	 193.70.192.25
+cns-b.libero.it	 193.70.152.25
+Wind
+
+dns.wind.it	 212.245.255.2	 smtp.inwind.it
+dns2.wind.it	 212.245.158.66
+dns.inwind.it	 212.141.53.123
+dns2.wind.it	 212.245.158.66
+Atlanet
+
+ns1.atlanet.it	 213.234.128.211
+ns2.atlanet.it	 213.234.132.130
+ns1.its.it	 151.92.2.35
+ns.telexis.it	 213.199.1.132
+McLink
+
+dns.mclink.it	 195.110.128.1
+Flashnet
+
+dns.flashnet.it	 194.247.160.1
+dns2.flashnet.it	 194.247.160.8
+Albacom
+
+ns2.albacom.net	 212.17.192.209
+I.Net
+
+urano.inet.it	 194.20.8.1
+venere.inet.it	 194.20.8.4
+Elitel
+
+elitel.it	 212.34.224.193
+ns.elitel.it	 212.34.224.132
+ns2.elitel.it	 217.146.65.7
+ns3.elitel.it	 217.146.65.80
+Edisontel
+
+dns1.edisontel.it	 62.94.0.1
+dns2.edisontel.it	 62.94.0.2
+Public DNS
+
+dns.nic.it	 193.205.245.5
+dns2.nic.it	 193.205.245.8
+nameserver.cnr.it	 194.119.192.34
+CINECA
+
+dns.nettuno.it	 192.43.2.1
+
