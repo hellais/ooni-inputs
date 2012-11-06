@@ -1,0 +1,10 @@
+torproject.org
+google.com
+facebook.com
+youtube.com
+yahoo.com
+baidu.com
+wikipedia.org
+live.com
+blogspot.com
+twitter.com
