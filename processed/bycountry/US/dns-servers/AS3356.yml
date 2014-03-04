@@ -1,0 +1,46 @@
+- {address: 4.2.2.1, asn: AS3356, cc: US, description: Level-3/GTEI, organization_name: Level
+    3 Communications}
+- {address: 4.2.2.4, asn: AS3356, cc: US, description: Genuity, organization_name: Level
+    3 Communications}
+- {address: 4.2.2.5, asn: AS3356, cc: US, description: Genuity, organization_name: Level
+    3 Communications}
+- {address: 4.2.2.6, asn: AS3356, cc: US, description: Genuity, organization_name: Level
+    3 Communications}
+- {address: 4.2.2.3, asn: AS3356, cc: US, description: Level-3/GTEI, organization_name: Level
+    3 Communications}
+- {address: 4.2.2.2, asn: AS3356, cc: US, description: Level-3/GTEI, organization_name: Level
+    3 Communications}
+- {address: 65.77.164.5, asn: AS3356, cc: US, description: Clearwire, organization_name: Level
+    3 Communications}
+- {address: 69.45.176.5, asn: AS3356, cc: US, description: Clearwire, organization_name: Level
+    3 Communications}
+- {address: 66.135.16.4, asn: AS3356, cc: US, description: BroadBandIP, organization_name: Level
+    3 Communications}
+- {address: 4.17.179.2, asn: AS3356, cc: US, description: Cyberonic, organization_name: Level
+    3 Communications}
+- {address: 209.244.0.3, asn: AS3356, cc: US, description: Level3, organization_name: Level
+    3 Communications}
+- {address: 209.244.0.4, asn: AS3356, cc: US, description: Level3, organization_name: Level
+    3 Communications}
+- {address: 8.2.208.1, asn: AS3356, cc: US, description: Livingston, organization_name: Level
+    3 Communications}
+- {address: 205.209.16.98, asn: AS3356, cc: US, description: Sitestar.net, organization_name: Level
+    3 Communications}
+- {address: 64.30.60.2, asn: AS3356, cc: US, description: Surfglobal, organization_name: Level
+    3 Communications}
+- {address: 8.2.208.2, asn: AS3356, cc: US, description: Livingston, organization_name: Level
+    3 Communications}
+- {address: 208.77.0.11, asn: AS3356, cc: US, description: iTalkGlobal, organization_name: Level
+    3 Communications}
+- {address: 8.10.118.8, asn: AS3356, cc: US, description: Cavecreek, organization_name: Level
+    3 Communications}
+- {address: 8.10.118.9, asn: AS3356, cc: US, description: Cavecreek, organization_name: Level
+    3 Communications}
+- {address: 4.82.42.42, asn: AS3356, cc: US, description: X-Level 3 Home User, organization_name: Level
+    3 Communications}
+- {address: 4.4.4.4, asn: AS3356, cc: US, description: X-No-Route, organization_name: Level
+    3 Communications}
+- {address: 4.4.8.8, asn: AS3356, cc: US, description: X-No-Route, organization_name: Level
+    3 Communications}
+- {address: 64.193.87.67, asn: AS3356, cc: US, description: PharmacarePC, organization_name: Level
+    3 Communications}

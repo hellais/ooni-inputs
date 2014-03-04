@@ -1,0 +1,9 @@
+- {address: 207.225.209.66, asn: AS209, cc: US, description: ScrubIT-2, organization_name: NOVARTIS-DMZ-US}
+- {address: 205.171.2.25, asn: AS209, cc: US, description: Qwest, organization_name: NOVARTIS-DMZ-US}
+- {address: 63.146.122.11, asn: AS209, cc: US, description: CyberNet, organization_name: NOVARTIS-DMZ-US}
+- {address: 208.44.122.5, asn: AS209, cc: US, description: Pentelco, organization_name: NOVARTIS-DMZ-US}
+- {address: 205.171.2.65, asn: AS209, cc: US, description: Qwest, organization_name: NOVARTIS-DMZ-US}
+- {address: 205.171.3.65, asn: AS209, cc: US, description: Qwest, organization_name: NOVARTIS-DMZ-US}
+- {address: 66.77.220.70, asn: AS209, cc: US, description: EcastInc, organization_name: NOVARTIS-DMZ-US}
+- {address: 199.44.194.2, asn: AS209, cc: US, description: Network Tallahassee, organization_name: NOVARTIS-DMZ-US}
+- {address: 63.226.12.96, asn: AS209, cc: US, description: X-Old-OpenNIC PHX, organization_name: NOVARTIS-DMZ-US}

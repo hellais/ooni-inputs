@@ -1,0 +1,30 @@
+- {address: 211.98.2.4, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}
+- {address: 211.98.4.1, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}
+- {address: 61.235.70.98, asn: AS9394, cc: CN, description: China Railcom Guandong,
+  organization_name: China TieTong Telecommunications Corporation}
+- {address: 61.236.93.33, asn: AS9394, cc: CN, description: China Railcom Harbin,
+  organization_name: China TieTong Telecommunications Corporation}
+- {address: 61.234.254.6, asn: AS9394, cc: CN, description: China Railway Communication
+    Hunan, organization_name: China TieTong Telecommunications Corporation}
+- {address: 211.98.72.8, asn: AS9394, cc: CN, description: cttynidc, organization_name: China
+    TieTong Telecommunications Corporation}
+- {address: 61.234.254.5, asn: AS9394, cc: CN, description: hncrc, organization_name: China
+    TieTong Telecommunications Corporation}
+- {address: 222.39.47.53, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}
+- {address: 222.39.47.51, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}
+- {address: 222.45.0.110, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}
+- {address: 222.46.120.5, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}
+- {address: 222.46.120.6, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}
+- {address: 61.236.93.34, asn: AS9394, cc: CN, description: China Railcom Harbin,
+  organization_name: China TieTong Telecommunications Corporation}
+- {address: 61.232.202.158, asn: AS9394, cc: CN, description: Xi'an Railway SNRC,
+  organization_name: China TieTong Telecommunications Corporation}
+- {address: 211.98.1.28, asn: AS9394, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u94C1\u901A", organization_name: China TieTong Telecommunications Corporation}

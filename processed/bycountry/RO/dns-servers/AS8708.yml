@@ -1,0 +1,50 @@
+- {address: 82.76.253.125, asn: AS8708, cc: RO, description: RCS & RDS, organization_name: RCS
+    & RDS SA}
+- {address: 217.156.101.1, asn: AS8708, cc: RO, description: RDS, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.233.1, asn: AS8708, cc: RO, description: RDS, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.233.8, asn: AS8708, cc: RO, description: RDS, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.249.6, asn: AS8708, cc: RO, description: RDSAR, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.237.2, asn: AS8708, cc: RO, description: rdsbv, organization_name: RCS
+    & RDS SA}
+- {address: 212.93.137.18, asn: AS8708, cc: RO, description: RDSCT, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.236.30, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 80.96.50.2, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 213.157.176.2, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 213.157.176.3, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.236.25, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 194.105.21.230, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.236.10, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.236.17, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.249.1, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 62.231.76.49, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 62.231.96.2, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 81.196.170.20, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.238.1, asn: AS8708, cc: RO, description: RDSOR, organization_name: RCS
+    & RDS SA}
+- {address: 86.120.109.41, asn: AS8708, cc: RO, description: Romnet, organization_name: RCS
+    & RDS SA}
+- {address: 81.181.15.3, asn: AS8708, cc: RO, description: Airbites, organization_name: RCS
+    & RDS SA}
+- {address: 193.231.252.1, asn: AS8708, cc: RO, description: RCS & RDS, organization_name: RCS
+    & RDS SA}
+- {address: 82.76.253.115, asn: AS8708, cc: RO, description: RCS & RDS, organization_name: RCS
+    & RDS SA}
+- {address: 81.196.44.23, asn: AS8708, cc: RO, description: RDSNet, organization_name: RCS
+    & RDS SA}

@@ -1,0 +1,20 @@
+- {address: 219.141.148.37, asn: AS4847, cc: CN, description: China Telecom BJ, organization_name: China
+    Networks Inter-Exchange}
+- {address: 219.141.140.10, asn: AS4847, cc: CN, description: China Telecom JA, organization_name: China
+    Networks Inter-Exchange}
+- {address: 219.141.185.2, asn: AS4847, cc: CN, description: China Telecom-2, organization_name: China
+    Networks Inter-Exchange}
+- {address: 219.141.210.3, asn: AS4847, cc: CN, description: China Telecom-3, organization_name: China
+    Networks Inter-Exchange}
+- {address: 211.147.6.3, asn: AS4847, cc: CN, description: DataDragon, organization_name: China
+    Networks Inter-Exchange}
+- {address: 219.232.48.61, asn: AS4847, cc: CN, description: founderbn, organization_name: China
+    Networks Inter-Exchange}
+- {address: 219.141.148.38, asn: AS4847, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7535\u4FE1\u5317\u4EAC\u516C\u53F8", organization_name: China Networks Inter-Exchange}
+- {address: 211.161.46.84, asn: AS4847, cc: CN, description: !!python/str "\u957F\u57CE\
+    \u5BBD\u5E26", organization_name: China Networks Inter-Exchange}
+- {address: 211.161.46.85, asn: AS4847, cc: CN, description: !!python/str "\u957F\u57CE\
+    \u5BBD\u5E26", organization_name: China Networks Inter-Exchange}
+- {address: 211.161.192.73, asn: AS4847, cc: CN, description: Great Wall, organization_name: China
+    Networks Inter-Exchange}

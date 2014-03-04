@@ -1,0 +1,10 @@
+- {address: 205.188.146.145, asn: AS1668, cc: US, description: AOL, organization_name: AOL
+    Transit Data Network}
+- {address: 205.188.146.146, asn: AS1668, cc: US, description: AOL, organization_name: AOL
+    Transit Data Network}
+- {address: 149.174.211.5, asn: AS1668, cc: US, description: Compuserve, organization_name: AOL
+    Transit Data Network}
+- {address: 172.168.255.254, asn: AS1668, cc: US, description: X-AOL, organization_name: AOL
+    Transit Data Network}
+- {address: 172.199.199.99, asn: AS1668, cc: US, description: X-AOL-User, organization_name: AOL
+    Transit Data Network}

@@ -1,0 +1,18 @@
+- {address: 62.0.192.20, asn: AS1680, cc: IL, description: !!python/str "ORT/\u05D0\
+    \u05D5\u05E8\u05D8", organization_name: 013 NetVision Ltd.}
+- {address: 192.118.28.2, asn: AS1680, cc: IL, description: !!python/str "\u05E1\u05DC\
+    \u05E7\u05D5\u05DD", organization_name: 013 NetVision Ltd.}
+- {address: 192.118.30.17, asn: AS1680, cc: IL, description: !!python/str "\u05E1\u05DC\
+    \u05E7\u05D5\u05DD", organization_name: 013 NetVision Ltd.}
+- {address: 192.118.30.18, asn: AS1680, cc: IL, description: !!python/str "\u05E1\u05DC\
+    \u05E7\u05D5\u05DD", organization_name: 013 NetVision Ltd.}
+- {address: 212.150.48.169, asn: AS1680, cc: IL, description: Barak, organization_name: 013
+    NetVision Ltd.}
+- {address: 212.150.49.10, asn: AS1680, cc: IL, description: Barak, organization_name: 013
+    NetVision Ltd.}
+- {address: 194.90.1.5, asn: AS1680, cc: IL, description: Netvision, organization_name: 013
+    NetVision Ltd.}
+- {address: 199.203.1.20, asn: AS1680, cc: IL, description: Netvision, organization_name: 013
+    NetVision Ltd.}
+- {address: 212.143.212.143, asn: AS1680, cc: IL, description: Netvision, organization_name: 013
+    NetVision Ltd.}

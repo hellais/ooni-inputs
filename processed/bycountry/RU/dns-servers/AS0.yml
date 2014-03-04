@@ -1,0 +1,9 @@
+- {address: 213.109.73.74, asn: AS0, cc: RU, description: X-AS4901-Analytics-Hijack,
+  organization_name: unknown}
+- {address: 213.109.64.53, asn: AS0, cc: RU, description: X-AS4901-Analytics-Hijack,
+  organization_name: unknown}
+- {address: 213.109.68.117, asn: AS0, cc: RU, description: X-AS4901-Analytics-Hijack,
+  organization_name: unknown}
+- {address: 213.109.75.211, asn: AS0, cc: RU, description: X-AS4901-Analytics-Hijack,
+  organization_name: unknown}
+- {address: 194.85.107.59, asn: AS0, cc: RU, description: RIPN, organization_name: unknown}

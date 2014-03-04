@@ -1,0 +1,6 @@
+- {address: 80.237.81.250, asn: AS20485, cc: RU, description: abakannet, organization_name: TransTelecom}
+- {address: 80.237.7.1, asn: AS20485, cc: RU, description: CSN, organization_name: TransTelecom}
+- {address: 217.150.32.18, asn: AS20485, cc: RU, description: TTK, organization_name: TransTelecom}
+- {address: 217.150.35.129, asn: AS20485, cc: RU, description: TTK, organization_name: TransTelecom}
+- {address: 83.234.62.250, asn: AS20485, cc: RU, description: KHN/DataLine, organization_name: TransTelecom}
+- {address: 83.234.63.250, asn: AS20485, cc: RU, description: KHN/DataLine, organization_name: TransTelecom}

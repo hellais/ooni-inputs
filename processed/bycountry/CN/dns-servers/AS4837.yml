@@ -1,0 +1,78 @@
+- {address: 221.11.1.68, asn: AS4837, cc: CN, description: 169cnc xgx, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 202.102.227.90, asn: AS4837, cc: CN, description: China Netcom Luoyang,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 123.129.192.17, asn: AS4837, cc: CN, description: China Netcom Shandong,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 221.11.1.67, asn: AS4837, cc: CN, description: China Netcom Xi'an, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 202.102.224.90, asn: AS4837, cc: CN, description: China Netcom Zhengzhou,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 221.10.251.197, asn: AS4837, cc: CN, description: China Netcom/169ol,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 221.7.1.21, asn: AS4837, cc: CN, description: ChinaUnicom, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.91.88.129, asn: AS4837, cc: CN, description: cnuninet ahhf, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.92.136.81, asn: AS4837, cc: CN, description: cnuninet gzgy, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.93.24.129, asn: AS4837, cc: CN, description: cnuninet hlhr, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.90.72.65, asn: AS4837, cc: CN, description: cnuninet nmhh, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.90.80.65, asn: AS4837, cc: CN, description: cnuninet sxty, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 202.102.224.74, asn: AS4837, cc: CN, description: Hazzptt, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 61.163.252.30, asn: AS4837, cc: CN, description: hn.ly.kd.adsl, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 221.6.4.66, asn: AS4837, cc: CN, description: JSCNC, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 221.6.4.67, asn: AS4837, cc: CN, description: JSCNC, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 202.99.224.67, asn: AS4837, cc: CN, description: Netcom Inner Mongolia,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 202.99.224.68, asn: AS4837, cc: CN, description: Netcom Inner Mongolia,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 202.99.224.8, asn: AS4837, cc: CN, description: Netcom Inner Mongolia,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 202.96.80.1, asn: AS4837, cc: CN, description: Panjin Oil Field Huayu
+    Info Corp, organization_name: CNCGROUP China169 Backbone}
+- {address: 221.7.136.68, asn: AS4837, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7F51\u901A", organization_name: CNCGROUP China169 Backbone}
+- {address: 221.7.128.68, asn: AS4837, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7F51\u901A", organization_name: CNCGROUP China169 Backbone}
+- {address: 221.13.28.234, asn: AS4837, cc: CN, description: !!python/str "\u8D35\u5DDE\
+    \u7F51\u901A", organization_name: CNCGROUP China169 Backbone}
+- {address: 221.13.30.242, asn: AS4837, cc: CN, description: !!python/str "\u8D35\u5DDE\
+    \u7F51\u901A", organization_name: CNCGROUP China169 Backbone}
+- {address: 211.90.8.129, asn: AS4837, cc: CN, description: cnuninet hesj, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.91.216.129, asn: AS4837, cc: CN, description: cnuninet hncs, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.93.80.129, asn: AS4837, cc: CN, description: Cnuninet lnsy, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 221.11.132.2, asn: AS4837, cc: CN, description: !!python/str "\u7F51\u901A\
+    \  \u6D77\u5357", organization_name: CNCGROUP China169 Backbone}
+- {address: 218.104.128.106, asn: AS4837, cc: CN, description: China Telecom Xiamen,
+  organization_name: CNCGROUP China169 Backbone}
+- {address: 58.22.96.66, asn: AS4837, cc: CN, description: China Unicom Fuzhou, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 58.242.2.2, asn: AS4837, cc: CN, description: CNCGroup Anhui, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.92.8.161, asn: AS4837, cc: CN, description: cnuninet cq, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 211.97.104.129, asn: AS4837, cc: CN, description: cnuninet fjfz, organization_name: CNCGROUP
+    China169 Backbone}
+- {address: 221.3.131.11, asn: AS4837, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7F51\u901A", organization_name: CNCGROUP China169 Backbone}
+- {address: 221.3.131.12, asn: AS4837, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7F51\u901A", organization_name: CNCGROUP China169 Backbone}
+- {address: 119.6.6.6, asn: AS4837, cc: CN, description: !!python/str "\u56DB\u5DDD\
+    \u7701 \u7F51\u901A", organization_name: CNCGROUP China169 Backbone}
+- {address: 221.12.33.227, asn: AS4837, cc: CN, description: !!python/str "\u5BBD\u5E26\
+    \u6211\u4E16\u754C\u6D59\u6C5F", organization_name: CNCGROUP China169 Backbone}
+- {address: 211.155.235.188, asn: AS4837, cc: CN, description: !!python/str "\u676D\u5DDE\
+    \u4E16\u5BFC\u79D1\u6280", organization_name: CNCGROUP China169 Backbone}
+- {address: 123.235.57.50, asn: AS4837, cc: CN, description: X-CNCGroup-Unknown, organization_name: CNCGROUP
+    China169 Backbone}

@@ -1,0 +1,15 @@
+- {address: 213.234.192.7, asn: AS8402, cc: RU, description: !!python/str "\u041A\u043E\
+    \u0440\u0431\u0438\u043D\u0430 \u0422\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: OJSC
+    Vimpelcom}
+- {address: 213.234.192.8, asn: AS8402, cc: RU, description: !!python/str "\u041A\u043E\
+    \u0440\u0431\u0438\u043D\u0430 \u0422\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: OJSC
+    Vimpelcom}
+- {address: 85.21.192.3, asn: AS8402, cc: RU, description: !!python/str "\u041A\u043E\
+    \u0440\u0431\u0438\u043D\u0430 \u0422\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: OJSC
+    Vimpelcom}
+- {address: 85.21.192.5, asn: AS8402, cc: RU, description: !!python/str "\u041A\u043E\
+    \u0440\u0431\u0438\u043D\u0430 \u0422\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: OJSC
+    Vimpelcom}
+- {address: 195.14.50.21, asn: AS8402, cc: RU, description: !!python/str "\u041A\u043E\
+    \u0440\u0431\u0438\u043D\u0430 \u0422\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: OJSC
+    Vimpelcom}

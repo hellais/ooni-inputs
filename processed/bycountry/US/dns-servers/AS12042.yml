@@ -1,0 +1,10 @@
+- {address: 209.240.224.1, asn: AS12042, cc: US, description: CP Internet/HickoryTech,
+  organization_name: Enventis Telecom Inc.}
+- {address: 209.240.254.1, asn: AS12042, cc: US, description: CP Internet/HickoryTech,
+  organization_name: Enventis Telecom Inc.}
+- {address: 64.21.232.212, asn: AS12042, cc: US, description: IdeaONE, organization_name: Enventis
+    Telecom Inc.}
+- {address: 76.10.67.2, asn: AS12042, cc: US, description: IdeaONE, organization_name: Enventis
+    Telecom Inc.}
+- {address: 64.21.232.2, asn: AS12042, cc: US, description: IdeaOne, organization_name: Enventis
+    Telecom Inc.}

@@ -1,0 +1,3 @@
+- {address: 202.89.58.97, asn: AS9889, cc: AU, description: Maxnet, organization_name: Auckland}
+- {address: 202.89.58.98, asn: AS9889, cc: AU, description: Maxnet, organization_name: Auckland}
+- {address: 202.89.50.62, asn: AS9889, cc: AU, description: watchdog, organization_name: Auckland}

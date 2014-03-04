@@ -1,0 +1,14 @@
+- {address: 87.103.161.61, asn: AS41440, cc: RU, description: stbur, organization_name: OJSC
+    Rostelecom}
+- {address: 212.20.0.126, asn: AS41440, cc: RU, description: NSK, organization_name: OJSC
+    Rostelecom}
+- {address: 212.164.0.102, asn: AS41440, cc: RU, description: NSK, organization_name: OJSC
+    Rostelecom}
+- {address: 87.103.236.9, asn: AS41440, cc: RU, description: !!python/str "\u0421\u0438\
+    \u0431\u0438\u0440\u044C\u0442\u0435\u043B\u0435\u043A\u043E\u043C \u0417\u0430\
+    \u0431\u0430\u0439\u043A\u0430\u043B\u044C\u0441\u043A\u0438\u0439", organization_name: OJSC
+    Rostelecom}
+- {address: 87.103.236.10, asn: AS41440, cc: RU, description: !!python/str "\u0421\u0438\
+    \u0431\u0438\u0440\u044C\u0442\u0435\u043B\u0435\u043A\u043E\u043C \u0417\u0430\
+    \u0431\u0430\u0439\u043A\u0430\u043B\u044C\u0441\u043A\u0438\u0439", organization_name: OJSC
+    Rostelecom}

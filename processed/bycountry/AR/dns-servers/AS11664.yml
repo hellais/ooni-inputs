@@ -1,0 +1,12 @@
+- {address: 200.80.194.24, asn: AS11664, cc: AR, description: X-Telmex Static, organization_name: Techtel
+    LMDS Comunicaciones Interactivas S.A.}
+- {address: 200.80.194.26, asn: AS11664, cc: AR, description: X-Telmex Static, organization_name: Techtel
+    LMDS Comunicaciones Interactivas S.A.}
+- {address: 200.80.195.24, asn: AS11664, cc: AR, description: X-Telmex Static, organization_name: Techtel
+    LMDS Comunicaciones Interactivas S.A.}
+- {address: 200.80.195.26, asn: AS11664, cc: AR, description: 'X-Telmex Static ',
+  organization_name: Techtel LMDS Comunicaciones Interactivas S.A.}
+- {address: 200.80.194.18, asn: AS11664, cc: AR, description: Telmex, organization_name: Techtel
+    LMDS Comunicaciones Interactivas S.A.}
+- {address: 200.80.195.18, asn: AS11664, cc: AR, description: Telmex, organization_name: Techtel
+    LMDS Comunicaciones Interactivas S.A.}

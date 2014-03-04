@@ -1,0 +1,18 @@
+- address: 200.88.127.22
+  asn: AS6400
+  cc: DO
+  description: Codetel
+  organization_name: !!binary |
+    Q29tcGHx7WEgRG9taW5pY2FuYSBkZSBUZWzpZm9ub3MsIEMuIHBvciBBLiAtIENPREVURUw=
+- address: 200.88.127.23
+  asn: AS6400
+  cc: DO
+  description: Codetel
+  organization_name: !!binary |
+    Q29tcGHx7WEgRG9taW5pY2FuYSBkZSBUZWzpZm9ub3MsIEMuIHBvciBBLiAtIENPREVURUw=
+- address: 196.3.81.5
+  asn: AS6400
+  cc: DO
+  description: Codetel
+  organization_name: !!binary |
+    Q29tcGHx7WEgRG9taW5pY2FuYSBkZSBUZWzpZm9ub3MsIEMuIHBvciBBLiAtIENPREVURUw=

@@ -1,0 +1,5 @@
+- {address: 202.123.2.11, asn: AS23889, cc: MU, description: IntNet, organization_name: MauritiusTelecom}
+- {address: 202.123.2.35, asn: AS23889, cc: MU, description: Intnet, organization_name: MauritiusTelecom}
+- {address: 202.123.2.6, asn: AS23889, cc: MU, description: IntNet, organization_name: MauritiusTelecom}
+- {address: 196.192.4.4, asn: AS23889, cc: MU, description: Mauritius Telecom, organization_name: MauritiusTelecom}
+- {address: 196.192.4.5, asn: AS23889, cc: MU, description: Mauritius Telecom, organization_name: MauritiusTelecom}

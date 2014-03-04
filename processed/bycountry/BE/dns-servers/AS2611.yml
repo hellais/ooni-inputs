@@ -1,0 +1,12 @@
+- {address: 134.58.128.19, asn: AS2611, cc: BE, description: KU Leuven CCL, organization_name: BELNET
+    BELNET}
+- {address: 134.58.60.1, asn: AS2611, cc: BE, description: KU Leuven MTM, organization_name: BELNET
+    BELNET}
+- {address: 157.193.40.42, asn: AS2611, cc: BE, description: UGent, organization_name: BELNET
+    BELNET}
+- {address: 157.193.71.1, asn: AS2611, cc: BE, description: Ugent, organization_name: BELNET
+    BELNET}
+- {address: 139.165.32.13, asn: AS2611, cc: BE, description: Universite de Liege,
+  organization_name: BELNET BELNET}
+- {address: 193.190.247.71, asn: AS2611, cc: BE, description: IIHE STC, organization_name: BELNET
+    BELNET}

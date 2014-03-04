@@ -1,0 +1,12 @@
+- {address: 211.138.91.1, asn: AS9808, cc: CN, description: !!python/str "\u5185\u8499\
+    \u53E4\u79FB\u52A8\u4E2D\u56FD\u79FB\u52A8\u901A\u4FE1", organization_name: Guangdong
+    Mobile Communication Co.Ltd.}
+- {address: 211.141.90.68, asn: AS9808, cc: CN, description: !!python/str "\u6C5F\u897F\
+    \u79FB\u52A8\u4E2D\u56FD\u79FB\u52A8\u901A\u4FE1", organization_name: Guangdong
+    Mobile Communication Co.Ltd.}
+- {address: 218.201.17.2, asn: AS9808, cc: CN, description: !!python/str "\u91CD\u5E86\
+    \u79FB\u52A8\u4E2D\u56FD\u79FB\u52A8\u901A\u4FE1", organization_name: Guangdong
+    Mobile Communication Co.Ltd.}
+- {address: 218.201.4.3, asn: AS9808, cc: CN, description: !!python/str "\u91CD\u5E86\
+    \u79FB\u52A8\u4E2D\u56FD\u79FB\u52A8\u901A\u4FE1", organization_name: Guangdong
+    Mobile Communication Co.Ltd.}

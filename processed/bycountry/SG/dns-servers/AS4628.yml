@@ -1,0 +1,8 @@
+- {address: 192.169.33.3, asn: AS4628, cc: SG, description: Pacific, organization_name: Pacific
+    Internet Ltd}
+- {address: 203.120.90.90, asn: AS4628, cc: SG, description: Pacific.Net, organization_name: Pacific
+    Internet Ltd}
+- {address: 203.120.90.40, asn: AS4628, cc: SG, description: Pacnet, organization_name: Pacific
+    Internet Ltd}
+- {address: 203.120.90.60, asn: AS4628, cc: SG, description: Pacific, organization_name: Pacific
+    Internet Ltd}

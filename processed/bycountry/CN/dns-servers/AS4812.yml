@@ -1,0 +1,25 @@
+- {address: 202.101.6.2, asn: AS4812, cc: CN, description: !!python/str "\u4E0A\u6D77\
+    \u677E\u8BAF\u4FE1\u606F\u53D1\u5C55\u6709\u9650\u516C\u53F8", organization_name: China
+    Telecom (Group)}
+- {address: 202.96.247.194, asn: AS4812, cc: CN, description: Shanghai Longdistance,
+  organization_name: China Telecom (Group)}
+- {address: 202.101.10.10, asn: AS4812, cc: CN, description: Shanghai Telecom Co,
+  organization_name: China Telecom (Group)}
+- {address: 202.96.197.1, asn: AS4812, cc: CN, description: Shanghai UniNet, organization_name: China
+    Telecom (Group)}
+- {address: 202.101.8.18, asn: AS4812, cc: CN, description: !!python/str "\u4E0A\u6D77\
+    \u70ED\u7EBF", organization_name: China Telecom (Group)}
+- {address: 61.129.64.3, asn: AS4812, cc: CN, description: ChinaNetCenter, organization_name: China
+    Telecom (Group)}
+- {address: 202.96.199.132, asn: AS4812, cc: CN, description: Shanghai Post-Telecom,
+  organization_name: China Telecom (Group)}
+- {address: 61.129.73.196, asn: AS4812, cc: CN, description: WINKING, organization_name: China
+    Telecom (Group)}
+- {address: 116.228.111.118, asn: AS4812, cc: CN, description: !!python/str "\u4E0A\u6D77\
+    \u70ED\u7EBF", organization_name: China Telecom (Group)}
+- {address: 180.168.255.18, asn: AS4812, cc: CN, description: !!python/str "\u4E0A\u6D77\
+    \u70ED\u7EBF", organization_name: China Telecom (Group)}
+- {address: 61.152.82.18, asn: AS4812, cc: CN, description: China Telecom Shanghai,
+  organization_name: China Telecom (Group)}
+- {address: 222.67.222.222, asn: AS4812, cc: CN, description: X-163Data, organization_name: China
+    Telecom (Group)}

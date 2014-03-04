@@ -1,0 +1,5 @@
+- {address: 142.77.1.1, asn: AS3378, cc: US, description: UUNet CA, organization_name: MCI}
+- {address: 142.77.1.5, asn: AS3378, cc: US, description: UUNet CA, organization_name: MCI}
+- {address: 199.249.19.2, asn: AS3378, cc: US, description: MCI, organization_name: MCI}
+- {address: 199.249.19.1, asn: AS3378, cc: US, description: Verizion Business, organization_name: MCI}
+- {address: 199.249.18.1, asn: AS3378, cc: US, description: Verizon Business, organization_name: MCI}

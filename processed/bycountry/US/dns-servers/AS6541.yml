@@ -1,0 +1,6 @@
+- {address: 206.124.64.1, asn: AS6541, cc: US, description: GTE, organization_name: Verizon
+    Online LLC}
+- {address: 206.124.64.253, asn: AS6541, cc: US, description: Verizon Dial-Up TX,
+  organization_name: Verizon Online LLC}
+- {address: 206.124.65.253, asn: AS6541, cc: US, description: Verizon Dial-Up TX,
+  organization_name: Verizon Online LLC}

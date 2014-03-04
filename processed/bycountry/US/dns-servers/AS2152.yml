@@ -1,0 +1,24 @@
+- {address: 129.65.16.254, asn: AS2152, cc: US, description: CalPoly, organization_name: California
+    State University Network}
+- {address: 129.65.21.254, asn: AS2152, cc: US, description: CalPoly, organization_name: California
+    State University Network}
+- {address: 147.144.1.251, asn: AS2152, cc: US, description: City College SF, organization_name: California
+    State University Network}
+- {address: 130.150.102.100, asn: AS2152, cc: US, description: CSU, organization_name: California
+    State University Network}
+- {address: 130.150.102.20, asn: AS2152, cc: US, description: CSU, organization_name: California
+    State University Network}
+- {address: 155.135.55.2, asn: AS2152, cc: US, description: CSU Dominguez Hills, organization_name: California
+    State University Network}
+- {address: 134.139.1.2, asn: AS2152, cc: US, description: CSULB, organization_name: California
+    State University Network}
+- {address: 198.188.2.69, asn: AS2152, cc: US, description: CSUN, organization_name: California
+    State University Network}
+- {address: 147.144.1.250, asn: AS2152, cc: US, description: City College SF, organization_name: California
+    State University Network}
+- {address: 130.150.102.50, asn: AS2152, cc: US, description: X-Unknown, organization_name: California
+    State University Network}
+- {address: 130.65.11.90, asn: AS2152, cc: US, description: X-SJSU, organization_name: California
+    State University Network}
+- {address: 130.65.11.91, asn: AS2152, cc: US, description: X-SJSU, organization_name: California
+    State University Network}

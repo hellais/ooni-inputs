@@ -1,0 +1,10 @@
+- {address: 69.28.144.102, asn: AS22822, cc: US, description: Limelight Networks LAX,
+  organization_name: 'Limelight Networks, INC. proxy AS object'}
+- {address: 69.28.136.102, asn: AS22822, cc: US, description: Limelight Networks PHX,
+  organization_name: 'Limelight Networks, INC. proxy AS object'}
+- {address: 69.28.148.102, asn: AS22822, cc: US, description: Limelight Networks SJC,
+  organization_name: 'Limelight Networks, INC. proxy AS object'}
+- {address: 140.99.0.2, asn: AS22822, cc: US, description: Deru, organization_name: 'Limelight
+    Networks, INC. proxy AS object'}
+- {address: 140.99.1.2, asn: AS22822, cc: US, description: Deru, organization_name: 'Limelight
+    Networks, INC. proxy AS object'}

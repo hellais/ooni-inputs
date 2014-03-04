@@ -1,0 +1,9 @@
+- {address: 219.234.181.239, asn: AS17816, cc: CN, description: ConvergingStream Tech,
+  organization_name: China Unicom IP network China169 Guangdong province}
+- {address: 219.234.181.249, asn: AS17816, cc: CN, description: ConvergingStream Tech,
+  organization_name: China Unicom IP network China169 Guangdong province}
+- {address: 124.207.162.136, asn: AS17816, cc: CN, description: !!python/str "\u5317\u4EAC\
+    \u5BBD\u5E26\u901A", organization_name: China Unicom IP network China169 Guangdong
+    province}
+- {address: 221.4.8.1, asn: AS17816, cc: CN, description: Cnc-gd, organization_name: China
+    Unicom IP network China169 Guangdong province}

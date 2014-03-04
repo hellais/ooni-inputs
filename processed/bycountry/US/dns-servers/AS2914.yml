@@ -1,0 +1,14 @@
+- {address: 129.250.35.250, asn: AS2914, cc: US, description: NTT, organization_name: 'NTT
+    America, Inc.'}
+- {address: 129.250.35.251, asn: AS2914, cc: US, description: NTT, organization_name: 'NTT
+    America, Inc.'}
+- {address: 192.204.202.27, asn: AS2914, cc: US, description: Steel City Broadband,
+  organization_name: 'NTT America, Inc.'}
+- {address: 168.143.113.201, asn: AS2914, cc: US, description: Anonymizer, organization_name: 'NTT
+    America, Inc.'}
+- {address: 168.143.113.202, asn: AS2914, cc: US, description: Anonymizer, organization_name: 'NTT
+    America, Inc.'}
+- {address: 130.94.25.65, asn: AS2914, cc: US, description: GDNS CO, organization_name: 'NTT
+    America, Inc.'}
+- {address: 207.67.220.220, asn: AS2914, cc: US, description: X-OpenDNS-Typo, organization_name: 'NTT
+    America, Inc.'}

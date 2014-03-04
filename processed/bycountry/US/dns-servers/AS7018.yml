@@ -1,0 +1,64 @@
+- {address: 12.160.140.11, asn: AS7018, cc: US, description: Wabash, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.160.140.10, asn: AS7018, cc: US, description: Wabash, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.127.17.71, asn: AS7018, cc: US, description: AT&T, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.127.17.72, asn: AS7018, cc: US, description: AT&T, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 165.87.13.129, asn: AS7018, cc: US, description: AT&T Business, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 165.87.201.244, asn: AS7018, cc: US, description: AT&T Business, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.127.16.67, asn: AS7018, cc: US, description: AT&T VPNS, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.109.193.94, asn: AS7018, cc: US, description: G5 Internet, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 192.133.129.2, asn: AS7018, cc: US, description: Harding Uni., organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.17.136.131, asn: AS7018, cc: US, description: Intel Research, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.166.30.2, asn: AS7018, cc: US, description: MinerBroadband, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 64.119.60.9, asn: AS7018, cc: US, description: SpeedNet, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 64.119.60.5, asn: AS7018, cc: US, description: SpeedNet, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 12.106.254.37, asn: AS7018, cc: US, description: TransUnion, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 206.13.28.12, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 206.13.29.12, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 206.13.30.12, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 206.13.31.12, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 65.68.49.50, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 65.68.49.51, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 68.94.156.1, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 68.94.157.1, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 204.127.199.8, asn: AS7018, cc: US, description: AT&T BI, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 204.60.203.184, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 67.114.50.146, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 67.114.50.149, asn: AS7018, cc: US, description: AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 68.93.224.10, asn: AS7018, cc: US, description: DigiTex, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 99.99.99.1, asn: AS7018, cc: US, description: X-Bad-IP, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 209.184.47.61, asn: AS7018, cc: US, description: X-CC.KS, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 206.13.31.13, asn: AS7018, cc: US, description: X-Old AT&T/SBC, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 108.67.220.220, asn: AS7018, cc: US, description: X-OpenDNS-Typo, organization_name: 'AT&T
+    Services, Inc.'}
+- {address: 69.111.95.106, asn: AS7018, cc: US, description: X-User-Pacbell, organization_name: 'AT&T
+    Services, Inc.'}

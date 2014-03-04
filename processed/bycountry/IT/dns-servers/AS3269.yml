@@ -1,0 +1,84 @@
+- {address: 151.99.0.100, asn: AS3269, cc: IT, description: Interbusiness, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 151.99.125.1, asn: AS3269, cc: IT, description: Interbusiness, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 151.99.125.2, asn: AS3269, cc: IT, description: Interbusiness, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 151.99.125.3, asn: AS3269, cc: IT, description: Interbusiness, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 194.184.201.5, asn: AS3269, cc: IT, description: novanet, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 212.216.112.112, asn: AS3269, cc: IT, description: Telecom Italia, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 85.38.28.68, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.69, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.70, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.71, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.72, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.73, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.74, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.75, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.76, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.77, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.78, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.80, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.81, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.82, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.83, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.84, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.85, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.86, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.89, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.90, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.91, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.92, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.93, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.95, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.96, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.97, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 85.38.28.98, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 194.243.154.62, asn: AS3269, cc: IT, description: TIN, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 212.216.112.222, asn: AS3269, cc: IT, description: TIN, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 212.216.172.162, asn: AS3269, cc: IT, description: TIN, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 212.216.172.222, asn: AS3269, cc: IT, description: TIN, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 212.216.172.62, asn: AS3269, cc: IT, description: TIN, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 151.99.250.2, asn: AS3269, cc: IT, description: Interbusiness, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 194.243.154.51, asn: AS3269, cc: IT, description: TIN, organization_name: Telecom
+    Italia S.p.a.}
+- {address: 212.131.30.42, asn: AS3269, cc: IT, description: TelecomItalia Business,
+  organization_name: Telecom Italia S.p.a.}
+- {address: 195.31.190.31, asn: AS3269, cc: IT, description: TIN, organization_name: Telecom
+    Italia S.p.a.}

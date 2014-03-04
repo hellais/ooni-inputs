@@ -1,0 +1,134 @@
+- {address: 200.202.293.71, asn: AS0, cc: ZZ, description: X-Typo, organization_name: unknown}
+- {address: 0.0.0.0, asn: AS0, cc: ZZ, description: Broadcast 0, organization_name: unknown}
+- {address: 10.0.0.0, asn: AS0, cc: ZZ, description: Broadcast 10-0, organization_name: unknown}
+- {address: 192.168.0.0, asn: AS0, cc: ZZ, description: Broadcast 192-168-0-0, organization_name: unknown}
+- {address: 255.255.255.255, asn: AS0, cc: ZZ, description: Broadcast 255, organization_name: unknown}
+- {address: '2001:4f8:3:2bc:1::64:20', asn: AS0, cc: ZZ, description: OARC IPV6, organization_name: unknown}
+- {address: '2001:4830:cc1e:1', asn: AS0, cc: ZZ, description: OCCAID, organization_name: unknown}
+- {address: '2001:418:3ff::1:53', asn: AS0, cc: ZZ, description: NTT, organization_name: unknown}
+- {address: '2001:418:3ff::53', asn: AS0, cc: ZZ, description: NTT, organization_name: unknown}
+- {address: 172.25.3.5, asn: AS0, cc: ZZ, description: CableWireless PA, organization_name: unknown}
+- {address: 192.168.0.1, asn: AS0, cc: ZZ, description: Internal-0-1, organization_name: unknown}
+- {address: 10.0.0.1, asn: AS0, cc: ZZ, description: Internal-1, organization_name: unknown}
+- {address: 10.0.1.1, asn: AS0, cc: ZZ, description: Internal-1-1, organization_name: unknown}
+- {address: 192.168.1.1, asn: AS0, cc: ZZ, description: Internal-1-1, organization_name: unknown}
+- {address: 10.1.1.1, asn: AS0, cc: ZZ, description: Internal-1-1-1, organization_name: unknown}
+- {address: 192.168.1.245, asn: AS0, cc: ZZ, description: Internal-1-245, organization_name: unknown}
+- {address: 192.168.1.251, asn: AS0, cc: ZZ, description: Internal-1-251, organization_name: unknown}
+- {address: 192.168.1.254, asn: AS0, cc: ZZ, description: Internal-1-254, organization_name: unknown}
+- {address: 192.168.100.1, asn: AS0, cc: ZZ, description: Internal-100-1, organization_name: unknown}
+- {address: 10.0.0.138, asn: AS0, cc: ZZ, description: Internal-138, organization_name: unknown}
+- {address: 192.168.2.1, asn: AS0, cc: ZZ, description: Internal-168-1, organization_name: unknown}
+- {address: 192.168.2.2, asn: AS0, cc: ZZ, description: Internal-168-2, organization_name: unknown}
+- {address: 10.0.0.2, asn: AS0, cc: ZZ, description: Internal-2, organization_name: unknown}
+- {address: 10.0.0.3, asn: AS0, cc: ZZ, description: Internal-3, organization_name: unknown}
+- {address: 127.0.0.1, asn: AS0, cc: ZZ, description: Localhost IPv4, organization_name: unknown}
+- {address: 172.22.7.20, asn: AS0, cc: ZZ, description: Orange RO, organization_name: unknown}
+- {address: 172.22.7.21, asn: AS0, cc: ZZ, description: Orange RO, organization_name: unknown}
+- {address: 172.20.2.10, asn: AS0, cc: ZZ, description: SFR, organization_name: unknown}
+- {address: 172.20.2.12, asn: AS0, cc: ZZ, description: SFR, organization_name: unknown}
+- {address: 172.24.97.1, asn: AS0, cc: ZZ, description: Vodacom, organization_name: unknown}
+- {address: '2001:470:20::2', asn: AS0, cc: ZZ, description: Hurricane Electric, organization_name: unknown}
+- {address: 193.111.152.3, asn: AS0, cc: ZZ, description: Cenara, organization_name: unknown}
+- {address: 217.9.16.14, asn: AS0, cc: ZZ, description: Terralink, organization_name: unknown}
+- {address: 217.9.17.34, asn: AS0, cc: ZZ, description: Terralink, organization_name: unknown}
+- {address: 80.249.115.194, asn: AS0, cc: ZZ, description: ip69, organization_name: unknown}
+- {address: 213.226.123.19, asn: AS0, cc: ZZ, description: Gavle, organization_name: unknown}
+- {address: 213.226.123.20, asn: AS0, cc: ZZ, description: Gavle, organization_name: unknown}
+- {address: 213.226.123.21, asn: AS0, cc: ZZ, description: Gavle, organization_name: unknown}
+- {address: 195.135.252.10, asn: AS0, cc: ZZ, description: Net Connect, organization_name: unknown}
+- {address: 86.62.0.3, asn: AS0, cc: ZZ, description: DigitalSkys, organization_name: unknown}
+- {address: '2a00:ff0::1', asn: AS0, cc: ZZ, description: Alsys Net SRL RO, organization_name: unknown}
+- {address: '2001:4b28:1:12:230:48ff:fe7f:44ca', asn: AS0, cc: ZZ, description: BebbiCell
+    Telekom, organization_name: unknown}
+- {address: '2001:4b28:1:13:230:48ff:fe7f:48d7', asn: AS0, cc: ZZ, description: BebbiCell
+    Telekom, organization_name: unknown}
+- {address: '2001:630:200:8080::d:0', asn: AS0, cc: ZZ, description: Cambridge IPv6
+    UK, organization_name: unknown}
+- {address: '2001:630:200:8120::d:1', asn: AS0, cc: ZZ, description: Cambridge IPv6
+    UK, organization_name: unknown}
+- {address: '2404:130:2000:1:0:0:0:1', asn: AS0, cc: ZZ, description: Catalyst IPv6
+    NZ, organization_name: unknown}
+- {address: '2a01:6e8::107', asn: AS0, cc: ZZ, description: CenterTelecom RU, organization_name: unknown}
+- {address: '2a01:6e8::10c', asn: AS0, cc: ZZ, description: CenterTelecom RU, organization_name: unknown}
+- {address: '2607:f4b8:1:20:213:72ff:fe59:499a', asn: AS0, cc: ZZ, description: ClearRate,
+  organization_name: unknown}
+- {address: '2607:f4b8:1:20:213:72ff:fe59:49ea', asn: AS0, cc: ZZ, description: ClearRate,
+  organization_name: unknown}
+- {address: '2001:978:1:1::d', asn: AS0, cc: ZZ, description: Cogent EU IPv6, organization_name: unknown}
+- {address: '2001:978:1:2::d', asn: AS0, cc: ZZ, description: Cogent EU IPv6, organization_name: unknown}
+- {address: '2404:1b0:0:2:208:c7ff:fec5:d479', asn: AS0, cc: ZZ, description: Dwi
+    Tunggal Putra ID, organization_name: unknown}
+- {address: '2404:1b0:0:2:216:17ff:fe44:3ef3', asn: AS0, cc: ZZ, description: Dwi
+    Tunggal Putra ID, organization_name: unknown}
+- {address: '001:4d18:0:1::22', asn: AS0, cc: ZZ, description: Evolva, organization_name: unknown}
+- {address: '2001:3e0:0:10::11', asn: AS0, cc: ZZ, description: FreeBit, organization_name: unknown}
+- {address: '2001:3e0:0:10::12', asn: AS0, cc: ZZ, description: FreeBit, organization_name: unknown}
+- {address: '2001:1b50::82:195:224:5', asn: AS0, cc: ZZ, description: Genotec, organization_name: unknown}
+- {address: '2001:1b50::82:195:225:5', asn: AS0, cc: ZZ, description: Genotec, organization_name: unknown}
+- {address: '2001:450:2005:1:0:0:0:6', asn: AS0, cc: ZZ, description: Global Crossing,
+  organization_name: unknown}
+- {address: '2001:450:2005:0:0:0:0:6', asn: AS0, cc: ZZ, description: Global Crossing,
+  organization_name: unknown}
+- {address: '2001:450:2005:2:0:0:0:6', asn: AS0, cc: ZZ, description: Global Crossing,
+  organization_name: unknown}
+- {address: '2001:450:2005:3:0:0:0:6', asn: AS0, cc: ZZ, description: Global Crossing,
+  organization_name: unknown}
+- {address: '2001:648:2ffc:100::211', asn: AS0, cc: ZZ, description: GrNet IPv6 GR,
+  organization_name: unknown}
+- {address: '2001:250:6402:0:206:5bff:fefc:cccc', asn: AS0, cc: ZZ, description: Hangzhou
+    Dianzi U, organization_name: unknown}
+- {address: '2001:1620:2777::2', asn: AS0, cc: ZZ, description: init7, organization_name: unknown}
+- {address: '2001:8a8:21:4::2', asn: AS0, cc: ZZ, description: Init7, organization_name: unknown}
+- {address: '2001:44b8:1::1', asn: AS0, cc: ZZ, description: Internode IPv6 AU, organization_name: unknown}
+- {address: '2001:44b8:2::2', asn: AS0, cc: ZZ, description: Internode IPv6 AU, organization_name: unknown}
+- {address: '2001:6b0:1::200', asn: AS0, cc: ZZ, description: KTH, organization_name: unknown}
+- {address: '2001:6b0:1::201', asn: AS0, cc: ZZ, description: KTH, organization_name: unknown}
+- {address: '2001:ad0::', asn: AS0, cc: ZZ, description: LinxTelecom, organization_name: unknown}
+- {address: '::1', asn: AS0, cc: ZZ, description: Localhost IPv6, organization_name: unknown}
+- {address: '2a02:200:1:11::100', asn: AS0, cc: ZZ, description: Monzoon IPv6 AT,
+  organization_name: unknown}
+- {address: '2407:9000:0:c::3', asn: AS0, cc: ZZ, description: PipeNetworks AU, organization_name: unknown}
+- {address: '2001:840:100::', asn: AS0, cc: ZZ, description: PowerTech IPv6 NO, organization_name: unknown}
+- {address: '2001:840:200::', asn: AS0, cc: ZZ, description: PowerTech IPv6 NO, organization_name: unknown}
+- {address: '2001:428:101:100:205:171:2', asn: AS0, cc: ZZ, description: Qwest, organization_name: unknown}
+- {address: '2001:428:101:100:205:171:3', asn: AS0, cc: ZZ, description: Qwest, organization_name: unknown}
+- {address: '2001:67c:30::', asn: AS0, cc: ZZ, description: SC ITSol Telecom SRL,
+  organization_name: unknown}
+- {address: '2001:da8:8000:1:202:120:2:100', asn: AS0, cc: ZZ, description: Shanghai
+    Jiaotong Univ, organization_name: unknown}
+- {address: '2001:da8:8000:1:202:120:2:101', asn: AS0, cc: ZZ, description: Shanghai
+    Jiaotong Univ, organization_name: unknown}
+- {address: '2001:4de0:1000:a4::2', asn: AS0, cc: ZZ, description: SixXS, organization_name: unknown}
+- {address: '2001:4428:0:401::122', asn: AS0, cc: ZZ, description: SixXS, organization_name: unknown}
+- {address: '2001:41e0:ff00::5', asn: AS0, cc: ZZ, description: SixXS, organization_name: unknown}
+- {address: '2001:14b8:0:3007::6', asn: AS0, cc: ZZ, description: SixXS, organization_name: unknown}
+- {address: '2001:1418:10:2::2', asn: AS0, cc: ZZ, description: SixXS, organization_name: unknown}
+- {address: '2001:7b8:3:4f:202:b3ff:fe46:bec', asn: AS0, cc: ZZ, description: SixXS,
+  organization_name: unknown}
+- {address: '2001:4de0:1000:a3::2', asn: AS0, cc: ZZ, description: SixXS, organization_name: unknown}
+- {address: '2a01:288:8000:aaaa::1', asn: AS0, cc: ZZ, description: Sofia University,
+  organization_name: unknown}
+- {address: '2a01:288:8000:aaaa::7', asn: AS0, cc: ZZ, description: Sofia University,
+  organization_name: unknown}
+- {address: '2a00:11a0:ffff:ff00::2', asn: AS0, cc: ZZ, description: TelComNet RU,
+  organization_name: unknown}
+- {address: '2001:890:600:d1::100', asn: AS0, cc: ZZ, description: Telekom Austria,
+  organization_name: unknown}
+- {address: '2001:4870:8000:3::5', asn: AS0, cc: ZZ, description: TWTelecom, organization_name: unknown}
+- {address: '2a02:520:0:1:93:88:144:138', asn: AS0, cc: ZZ, description: UnifiedRoot
+    IPv6, organization_name: unknown}
+- {address: '2a02:520:2000:1:93:88:145:138', asn: AS0, cc: ZZ, description: Unifiedroot
+    IPv6, organization_name: unknown}
+- {address: '2001:738:6001:b0b0::1000', asn: AS0, cc: ZZ, description: University
+    of Miskolc HU, organization_name: unknown}
+- {address: '2a01:158:2:1:20d:60ff:fed5:238b', asn: AS0, cc: ZZ, description: Viatel,
+  organization_name: unknown}
+- {address: '2a01:158:2:1:211:25ff:fe8f:917a', asn: AS0, cc: ZZ, description: Viatel,
+  organization_name: unknown}
+- {address: '2001:468:c80:2101:0:100:0:22', asn: AS0, cc: ZZ, description: Virginia
+    T, organization_name: unknown}
+- {address: '2001:468:c80:4101:0:100:0:42', asn: AS0, cc: ZZ, description: Virginia
+    Tech, organization_name: unknown}
+- {address: 10.205.65.68, asn: AS0, cc: ZZ, description: Vodafone Mobile, organization_name: unknown}
+- {address: 156.157.70.1, asn: AS0, cc: ZZ, description: X-DNS-Advantage-Typo, organization_name: unknown}

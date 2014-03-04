@@ -1,0 +1,24 @@
+- address: 200.162.194.244
+  asn: AS19182
+  cc: BR
+  description: TVA/Ajato
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B
+- address: 200.162.196.29
+  asn: AS19182
+  cc: BR
+  description: TVA/Ajato
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B
+- address: 200.162.192.51
+  asn: AS19182
+  cc: BR
+  description: TVA/Ajato
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B
+- address: 200.162.192.50
+  asn: AS19182
+  cc: BR
+  description: TVA/Ajato
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B

@@ -1,0 +1,24 @@
+- address: 200.220.227.57
+  asn: AS26599
+  cc: BR
+  description: Vivo
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B
+- address: 200.142.130.202
+  asn: AS26599
+  cc: BR
+  description: Vivo
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B
+- address: 200.142.130.203
+  asn: AS26599
+  cc: BR
+  description: Vivo
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B
+- address: 200.220.227.100
+  asn: AS26599
+  cc: BR
+  description: Vivo
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B

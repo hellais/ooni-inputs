@@ -1,0 +1,22 @@
+- {address: 195.5.16.2, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 195.5.28.2, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 195.5.29.2, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 195.5.51.178, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 82.207.69.34, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 195.5.46.11, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 195.5.46.12, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 213.179.249.131, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 213.179.249.132, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 213.179.249.151, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}
+- {address: 213.179.249.152, asn: AS6849, cc: UA, description: !!python/str "\u0423\u043A\
+    \u0440\u0442\u0435\u043B\u0435\u043A\u043E\u043C", organization_name: 'JSC UKRTELECOM,'}

@@ -1,0 +1,10 @@
+- {address: 62.81.16.129, asn: AS6739, cc: ES, description: Retevision, organization_name: Cableuropa
+    - ONO}
+- {address: 62.42.230.24, asn: AS6739, cc: ES, description: ONO Resolv, organization_name: Cableuropa
+    - ONO}
+- {address: 62.42.63.52, asn: AS6739, cc: ES, description: ONO Resolv, organization_name: Cableuropa
+    - ONO}
+- {address: 62.42.230.135, asn: AS6739, cc: ES, description: ONO, organization_name: Cableuropa
+    - ONO}
+- {address: 62.42.230.136, asn: AS6739, cc: ES, description: ONO, organization_name: Cableuropa
+    - ONO}

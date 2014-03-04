@@ -1,0 +1,14 @@
+- {address: 200.186.152.130, asn: AS3549, cc: BR, description: poxnet/ANATEL, organization_name: Global
+    Crossing Ltd.}
+- {address: 200.186.152.140, asn: AS3549, cc: BR, description: poxnet/ANATEL, organization_name: Global
+    Crossing Ltd.}
+- {address: 200.196.91.210, asn: AS3549, cc: BR, description: Global Crossing/Impsat,
+  organization_name: Global Crossing Ltd.}
+- {address: 200.196.91.250, asn: AS3549, cc: BR, description: Global Crossing/Impsat,
+  organization_name: Global Crossing Ltd.}
+- {address: 200.196.94.146, asn: AS3549, cc: BR, description: PaLm Internet, organization_name: Global
+    Crossing Ltd.}
+- {address: 200.196.94.149, asn: AS3549, cc: BR, description: PaLm Internet, organization_name: Global
+    Crossing Ltd.}
+- {address: 200.186.100.10, asn: AS3549, cc: BR, description: T-Systems, organization_name: Global
+    Crossing Ltd.}

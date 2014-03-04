@@ -1,0 +1,4 @@
+- {address: 80.251.131.2, asn: AS21446, cc: RU, description: !!python/str "\u0412\u041F\
+    \u041A \u0422\u0415\u041B\u0415\u041A\u041E\u041C", organization_name: VPK-Telecom}
+- {address: 80.251.128.210, asn: AS21446, cc: RU, description: !!python/str "\u0412\u041F\
+    \u041A \u0422\u0415\u041B\u0415\u041A\u041E\u041C", organization_name: VPK-Telecom}

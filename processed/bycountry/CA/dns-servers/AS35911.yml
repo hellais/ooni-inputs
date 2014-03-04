@@ -1,0 +1,6 @@
+- {address: 209.226.51.46, asn: AS35911, cc: CA, description: NorthernTel, organization_name: Telebec}
+- {address: 24.212.0.7, asn: AS35911, cc: CA, description: Cablevision, organization_name: Telebec}
+- {address: 24.212.0.8, asn: AS35911, cc: CA, description: Cablevision, organization_name: Telebec}
+- {address: 142.217.192.9, asn: AS35911, cc: CA, description: Lino, organization_name: Telebec}
+- {address: 142.217.192.8, asn: AS35911, cc: CA, description: Telebec, organization_name: Telebec}
+- {address: 209.226.51.10, asn: AS35911, cc: CA, description: NorthernTel, organization_name: Telebec}

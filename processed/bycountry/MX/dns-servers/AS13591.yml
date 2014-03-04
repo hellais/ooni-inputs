@@ -1,0 +1,18 @@
+- address: 200.57.64.66
+  asn: AS13591
+  cc: MX
+  description: Metrored
+  organization_name: !!binary |
+    QnJhc2lsIFRlbGVjb20gQ29tdW5pY2Hn428gTXVsdGltaWRpYQ==
+- address: 200.57.64.85
+  asn: AS13591
+  cc: MX
+  description: Metrored
+  organization_name: !!binary |
+    QnJhc2lsIFRlbGVjb20gQ29tdW5pY2Hn428gTXVsdGltaWRpYQ==
+- address: 200.57.64.86
+  asn: AS13591
+  cc: MX
+  description: Metrored
+  organization_name: !!binary |
+    QnJhc2lsIFRlbGVjb20gQ29tdW5pY2Hn428gTXVsdGltaWRpYQ==

@@ -1,0 +1,12 @@
+- address: 200.204.0.10
+  asn: AS27699
+  cc: BR
+  description: !!python/str "Telef\xF3nica"
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B
+- address: 200.204.0.138
+  asn: AS27699
+  cc: BR
+  description: !!python/str "Telef\xF3nica"
+  organization_name: !!binary |
+    VEVMRUbUTklDQSBCUkFTSUwgUy5B

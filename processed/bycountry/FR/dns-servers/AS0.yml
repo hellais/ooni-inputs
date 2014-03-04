@@ -1,0 +1,5 @@
+- {address: 80.10.246.129, asn: AS0, cc: FR, description: Wanadoo, organization_name: unknown}
+- {address: 80.10.246.2, asn: AS0, cc: FR, description: Wanadoo, organization_name: unknown}
+- {address: 80.10.246.3, asn: AS0, cc: FR, description: Wanadoo, organization_name: unknown}
+- {address: 193.251.147.253, asn: AS0, cc: FR, description: IntNet, organization_name: unknown}
+- {address: 81.253.149.1, asn: AS0, cc: FR, description: Orange DSL GPE3, organization_name: unknown}

@@ -1,0 +1,6 @@
+- {address: 200.53.250.1, asn: AS16960, cc: MX, description: !!python/str "Cablevisi\xF3\
+    n Red", organization_name: 'Cablevision Red, S.A de C.V.'}
+- {address: 200.56.200.1, asn: AS16960, cc: MX, description: !!python/str "Cablevisi\xF3\
+    n Red", organization_name: 'Cablevision Red, S.A de C.V.'}
+- {address: 201.130.193.15, asn: AS16960, cc: MX, description: !!python/str "Cablevisi\xF3\
+    n Red", organization_name: 'Cablevision Red, S.A de C.V.'}

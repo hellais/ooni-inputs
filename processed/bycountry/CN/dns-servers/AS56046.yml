@@ -1,0 +1,10 @@
+- {address: 112.4.0.55, asn: AS56046, cc: CN, description: CMCC, organization_name: China
+    Mobile communications corporation}
+- {address: 221.131.143.69, asn: AS56046, cc: CN, description: CMCC-2, organization_name: China
+    Mobile communications corporation}
+- {address: 211.103.13.101, asn: AS56046, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u79FB\u52A8\u901A\u4FE1\u96C6\u56E2\u6C5F\u82CF", organization_name: China Mobile
+    communications corporation}
+- {address: 211.138.200.69, asn: AS56046, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u79FB\u52A8\u901A\u4FE1\u96C6\u56E2\u6C5F\u82CF", organization_name: China Mobile
+    communications corporation}

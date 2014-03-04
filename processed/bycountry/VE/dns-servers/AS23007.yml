@@ -1,0 +1,8 @@
+- {address: 150.185.130.8, asn: AS23007, cc: VE, description: ULA Avalon, organization_name: Universidad
+    de Los Andes}
+- {address: 150.185.138.1, asn: AS23007, cc: VE, description: ULA cecalc, organization_name: Universidad
+    de Los Andes}
+- {address: 150.185.130.16, asn: AS23007, cc: VE, description: ULA Azmodan, organization_name: Universidad
+    de Los Andes}
+- {address: 150.185.128.2, asn: AS23007, cc: VE, description: ULA ciens, organization_name: Universidad
+    de Los Andes}

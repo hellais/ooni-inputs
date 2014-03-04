@@ -1,0 +1,53 @@
+- {address: 210.38.192.33, asn: AS4538, cc: CN, description: !!python/str "\u97F6\u5173\
+    \u5B66\u9662", organization_name: China Education and Research Network Center}
+- {address: 211.69.143.1, asn: AS4538, cc: CN, description: !!python/str " \u534E\u4E2D\
+    \u519C\u4E1A\u5927\u5B66", organization_name: China Education and Research Network
+    Center}
+- {address: 202.112.80.106, asn: AS4538, cc: CN, description: BNU, organization_name: China
+    Education and Research Network Center}
+- {address: 210.31.0.10, asn: AS4538, cc: CN, description: cun.edu.cn, organization_name: China
+    Education and Research Network Center}
+- {address: 202.199.160.206, asn: AS4538, cc: CN, description: dufe.edu.cn, organization_name: China
+    Education and Research Network Center}
+- {address: 202.120.111.3, asn: AS4538, cc: CN, description: ecust.edu.cn, organization_name: China
+    Education and Research Network Center}
+- {address: 210.29.96.33, asn: AS4538, cc: CN, description: HHUC, organization_name: China
+    Education and Research Network Center}
+- {address: 211.67.112.1, asn: AS4538, cc: CN, description: HNCJ, organization_name: China
+    Education and Research Network Center}
+- {address: 202.119.64.123, asn: AS4538, cc: CN, description: NUAA, organization_name: China
+    Education and Research Network Center}
+- {address: 202.117.96.10, asn: AS4538, cc: CN, description: NWU, organization_name: China
+    Education and Research Network Center}
+- {address: 202.194.15.12, asn: AS4538, cc: CN, description: SDU.edu.cn, organization_name: China
+    Education and Research Network Center}
+- {address: 202.121.138.1, asn: AS4538, cc: CN, description: shufe.edu.cn, organization_name: China
+    Education and Research Network Center}
+- {address: 202.120.2.100, asn: AS4538, cc: CN, description: STJU, organization_name: China
+    Education and Research Network Center}
+- {address: 202.120.2.101, asn: AS4538, cc: CN, description: stju.edu, organization_name: China
+    Education and Research Network Center}
+- {address: 202.194.145.66, asn: AS4538, cc: CN, description: UPC, organization_name: China
+    Education and Research Network Center}
+- {address: 210.34.0.18, asn: AS4538, cc: CN, description: XMU, organization_name: China
+    Education and Research Network Center}
+- {address: 202.203.192.33, asn: AS4538, cc: CN, description: Ynufe, organization_name: China
+    Education and Research Network Center}
+- {address: 202.112.112.100, asn: AS4538, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u4EBA\u6C11\u5927\u5B66", organization_name: China Education and Research Network
+    Center}
+- {address: 210.45.240.99, asn: AS4538, cc: CN, description: !!python/str "\u5408\u80A5\
+    \u5DE5\u4E1A\u5927\u5B66", organization_name: China Education and Research Network
+    Center}
+- {address: 210.34.48.34, asn: AS4538, cc: CN, description: !!python/str "\u798F\u5DDE\
+    \u5927\u5B66", organization_name: China Education and Research Network Center}
+- {address: 210.44.112.66, asn: AS4538, cc: CN, description: !!python/str "\u804A\u57CE\
+    \u5927\u5B66", organization_name: China Education and Research Network Center}
+- {address: 202.200.112.2, asn: AS4538, cc: CN, description: !!python/str "\u897F\u5B89\
+    \u7406\u5DE5\u5927\u5B66", organization_name: China Education and Research Network
+    Center}
+- {address: 211.69.32.48, asn: AS4538, cc: CN, description: !!python/str "\u6CB3\u5357\
+    \u4E2D\u533B\u5B66\u9662", organization_name: China Education and Research Network
+    Center}
+- {address: 125.219.48.8, asn: AS4538, cc: CN, description: X-ChinaEd, organization_name: China
+    Education and Research Network Center}

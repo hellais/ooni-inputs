@@ -1,0 +1,114 @@
+- {address: 65.196.203.193, asn: AS701, cc: US, description: CISP, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 65.196.203.194, asn: AS701, cc: US, description: CISP, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 65.196.203.13, asn: AS701, cc: US, description: CISP, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 65.247.145.15, asn: AS701, cc: US, description: Plateau Internet, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 142.77.2.101, asn: AS701, cc: US, description: CA-DNS/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 142.77.2.36, asn: AS701, cc: US, description: CA-DNS/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 142.77.2.85, asn: AS701, cc: US, description: CA-DNS/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 64.13.32.5, asn: AS701, cc: US, description: Clearwire, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.1, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.122, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.142, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.146, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.195, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.2, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.3, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.4, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.5, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 198.6.1.6, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 206.64.118.165, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 206.64.198.20, asn: AS701, cc: US, description: UUNET/Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 141.154.0.68, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 141.155.0.68, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.196.0.37, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.196.0.38, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.197.0.37, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.197.0.38, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.197.0.39, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.198.0.38, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.198.0.39, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.199.0.39, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.201.0.38, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.201.0.39, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.202.0.84, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.203.0.84, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.203.0.85, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 199.45.32.38, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 199.45.32.43, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 207.68.32.38, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 207.68.32.39, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 68.237.161.12, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 68.238.0.12, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 68.238.112.12, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 68.238.96.12, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 71.243.0.14, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 71.250.0.12, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 71.250.0.14, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 71.252.0.12, asn: AS701, cc: US, description: Verizon, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 151.202.0.85, asn: AS701, cc: US, description: Verizon NYC, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 206.67.48.250, asn: AS701, cc: US, description: media3, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 204.92.15.211, asn: AS701, cc: US, description: Microcell/Fido, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 63.64.9.11, asn: AS701, cc: US, description: SIGECOM, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 63.64.9.12, asn: AS701, cc: US, description: SIGECOM, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 63.64.9.19, asn: AS701, cc: US, description: WOW!, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 68.238.96.6, asn: AS701, cc: US, description: X-Unknown, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 72.64.173.199, asn: AS701, cc: US, description: X-Verizon Home User, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 208.204.80.120, asn: AS701, cc: US, description: X-AS701-Unknown, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}
+- {address: 206.67.220.220, asn: AS701, cc: US, description: X-OpenDNS-Typo, organization_name: 'MCI
+    Communications Services, Inc. d/b/a Verizon Business'}

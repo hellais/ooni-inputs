@@ -1,0 +1,12 @@
+- address: 200.82.134.7
+  asn: AS21826
+  cc: VE
+  description: Interlink
+  organization_name: !!binary |
+    Q29ycG9yYWNp824gVGVsZW1pYyBDLkEu
+- address: 200.82.134.8
+  asn: AS21826
+  cc: VE
+  description: Interlink
+  organization_name: !!binary |
+    Q29ycG9yYWNp824gVGVsZW1pYyBDLkEu

@@ -1,0 +1,8 @@
+- {address: 211.95.1.97, asn: AS17621, cc: CN, description: !!python/str "\u6D59\u6C5F\
+    \uFF08\u8054\u901A\uFF09", organization_name: China Unicom Shanghai network}
+- {address: 211.95.72.1, asn: AS17621, cc: CN, description: !!python/str "\u4E0A\u6D77\
+    \u5E02", organization_name: China Unicom Shanghai network}
+- {address: 210.22.70.3, asn: AS17621, cc: CN, description: cncnet chj.sh, organization_name: China
+    Unicom Shanghai network}
+- {address: 210.22.84.3, asn: AS17621, cc: CN, description: cncnet lk.sh, organization_name: China
+    Unicom Shanghai network}

@@ -1,0 +1,6 @@
+- {address: 151.164.1.8, asn: AS7132, cc: US, description: AT&T/SBC, organization_name: AS
+    for SBIS-AS}
+- {address: 64.173.195.2, asn: AS7132, cc: US, description: Performance Computing,
+  organization_name: AS for SBIS-AS}
+- {address: 64.169.67.38, asn: AS7132, cc: US, description: X-PacBell-User, organization_name: AS
+    for SBIS-AS}

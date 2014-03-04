@@ -1,0 +1,12 @@
+- address: 200.73.96.146
+  asn: AS27882
+  cc: BO
+  description: WiMAX Tigo
+  organization_name: !!binary |
+    VGVsZWbzbmljYSBDZWx1bGFyIGRlIEJvbGl2aWEgUy5BLg==
+- address: 200.73.96.162
+  asn: AS27882
+  cc: BO
+  description: WiMAX Tigo
+  organization_name: !!binary |
+    VGVsZWbzbmljYSBDZWx1bGFyIGRlIEJvbGl2aWEgUy5BLg==

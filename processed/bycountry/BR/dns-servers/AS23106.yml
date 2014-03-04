@@ -1,0 +1,24 @@
+- address: 200.150.4.4
+  asn: AS23106
+  cc: BR
+  description: CEMIGTelecom
+  organization_name: !!binary |
+    Q2VtaWcgVGVsZWNvbXVuaWNh5/VlcyBTQQ==
+- address: 200.150.4.5
+  asn: AS23106
+  cc: BR
+  description: CEMIGTelecom
+  organization_name: !!binary |
+    Q2VtaWcgVGVsZWNvbXVuaWNh5/VlcyBTQQ==
+- address: 200.150.13.243
+  asn: AS23106
+  cc: BR
+  description: OI TV
+  organization_name: !!binary |
+    Q2VtaWcgVGVsZWNvbXVuaWNh5/VlcyBTQQ==
+- address: 200.150.13.244
+  asn: AS23106
+  cc: BR
+  description: OI TV
+  organization_name: !!binary |
+    Q2VtaWcgVGVsZWNvbXVuaWNh5/VlcyBTQQ==

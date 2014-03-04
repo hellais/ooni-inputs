@@ -1,0 +1,6 @@
+- {address: 208.67.220.220, asn: AS36692, cc: US, description: OpenDNS, organization_name: 'OpenDNS,
+    LLC'}
+- {address: 208.67.222.222, asn: AS36692, cc: US, description: OpenDNS, organization_name: 'OpenDNS,
+    LLC'}
+- {address: 208.67.220.200, asn: AS36692, cc: US, description: X-OpenDNS-Typo, organization_name: 'OpenDNS,
+    LLC'}

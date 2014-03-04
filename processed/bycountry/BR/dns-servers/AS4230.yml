@@ -1,0 +1,174 @@
+- address: 200.230.93.2
+  asn: AS4230
+  cc: BR
+  description: Stetnet
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.255.242.4
+  asn: AS4230
+  cc: BR
+  description: Citta America
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.230.93.1
+  asn: AS4230
+  cc: BR
+  description: Stetnet
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.245.255.65
+  asn: AS4230
+  cc: BR
+  description: Embratel
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.255.122.6
+  asn: AS4230
+  cc: BR
+  description: Embratel
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.255.125.211
+  asn: AS4230
+  cc: BR
+  description: Embratel
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.255.253.238
+  asn: AS4230
+  cc: BR
+  description: Embratel
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.255.244.1
+  asn: AS4230
+  cc: BR
+  description: Netpar
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.255.244.3
+  asn: AS4230
+  cc: BR
+  description: Netpar
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.211.11.100
+  asn: AS4230
+  cc: BR
+  description: Speedy
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.211.11.101
+  asn: AS4230
+  cc: BR
+  description: Speedy
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.246.5.2
+  asn: AS4230
+  cc: BR
+  description: UOL
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.246.5.87
+  asn: AS4230
+  cc: BR
+  description: UOL
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.212.223.43
+  asn: AS4230
+  cc: BR
+  description: Virtua
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.212.223.44
+  asn: AS4230
+  cc: BR
+  description: Virtua
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.246.248.10
+  asn: AS4230
+  cc: BR
+  description: ZAZ
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.248.149.1
+  asn: AS4230
+  cc: BR
+  description: ZAZ
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.245.255.33
+  asn: AS4230
+  cc: BR
+  description: Embratel
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.255.253.241
+  asn: AS4230
+  cc: BR
+  description: Embratel
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.242.131.6
+  asn: AS4230
+  cc: BR
+  description: Embratel
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.211.192.167
+  asn: AS4230
+  cc: BR
+  description: Virtua
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.211.192.168
+  asn: AS4230
+  cc: BR
+  description: Virtua
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.250.77.87
+  asn: AS4230
+  cc: BR
+  description: Virtua
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.167.216.14
+  asn: AS4230
+  cc: BR
+  description: Virtua
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.250.77.85
+  asn: AS4230
+  cc: BR
+  description: Virtua
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.167.216.15
+  asn: AS4230
+  cc: BR
+  description: Virtua BSB
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.252.98.162
+  asn: AS4230
+  cc: BR
+  description: X-Old-OpenNIC Brazil
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.230.128.21
+  asn: AS4230
+  cc: BR
+  description: X-Empressa-RS
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB
+- address: 200.213.28.62
+  asn: AS4230
+  cc: BR
+  description: X-Embratel/Proner
+  organization_name: !!binary |
+    QlJBU0lMRUlSQSBERSBURUxFQ09NVU5JQ0HH1UVTIFNB

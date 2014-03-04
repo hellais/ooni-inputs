@@ -1,0 +1,6 @@
+- {address: 85.95.165.60, asn: AS34449, cc: RU, description: !!python/str "\u0412\u043E\
+    \u043B\u0433\u0430\u0422\u0435\u043B\u0435\u043A\u043E\u043C \u041C\u043E\u0440\
+    \u0434\u043E\u0432\u0438\u044F", organization_name: OJSC Rostelecom}
+- {address: 85.95.164.60, asn: AS34449, cc: RU, description: !!python/str "\u0412\u043E\
+    \u043B\u0433\u0430\u0422\u0435\u043B\u0435\u043A\u043E\u043C \u041C\u043E\u0440\
+    \u0434\u043E\u0432\u0438\u044F", organization_name: OJSC Rostelecom}

@@ -1,0 +1,31 @@
+- {address: 64.13.36.5, asn: AS0, cc: US, description: Clearwire, organization_name: unknown}
+- {address: 216.144.8.10, asn: AS0, cc: US, description: NetLink Services, organization_name: unknown}
+- {address: 216.144.4.10, asn: AS0, cc: US, description: NLS, organization_name: unknown}
+- {address: 208.65.225.10, asn: AS0, cc: US, description: GoWavelength, organization_name: unknown}
+- {address: 199.104.81.3, asn: AS0, cc: US, description: OneWest, organization_name: unknown}
+- {address: 199.104.81.6, asn: AS0, cc: US, description: OneWest, organization_name: unknown}
+- {address: 65.19.193.20, asn: AS0, cc: US, description: OneWest, organization_name: unknown}
+- {address: 65.19.193.21, asn: AS0, cc: US, description: OneWest, organization_name: unknown}
+- {address: 199.233.67.2, asn: AS0, cc: US, description: Worldramp, organization_name: unknown}
+- {address: 216.155.175.40, asn: AS0, cc: US, description: T-Mobile, organization_name: unknown}
+- {address: 216.155.175.41, asn: AS0, cc: US, description: T-Mobile, organization_name: unknown}
+- {address: 216.155.175.105, asn: AS0, cc: US, description: T-Mobile Internet, organization_name: unknown}
+- {address: 216.155.175.106, asn: AS0, cc: US, description: T-Mobile Internet, organization_name: unknown}
+- {address: 64.13.64.5, asn: AS0, cc: US, description: Clearwire, organization_name: unknown}
+- {address: 9.0.8.1, asn: AS0, cc: US, description: AT&T Managed VPN, organization_name: unknown}
+- {address: 9.0.9.1, asn: AS0, cc: US, description: AT&T Managed VPN, organization_name: unknown}
+- {address: 64.13.40.5, asn: AS0, cc: US, description: Clearwire Boi, organization_name: unknown}
+- {address: 66.128.32.68, asn: AS0, cc: US, description: Telesat, organization_name: unknown}
+- {address: 66.128.32.70, asn: AS0, cc: US, description: Telesat, organization_name: unknown}
+- {address: 66.128.32.82, asn: AS0, cc: US, description: Telesat, organization_name: unknown}
+- {address: 199.166.24.253, asn: AS0, cc: US, description: X-Old-ORSC, organization_name: unknown}
+- {address: 199.166.27.253, asn: AS0, cc: US, description: X-Old-ORSC, organization_name: unknown}
+- {address: 199.166.28.10, asn: AS0, cc: US, description: X-Old-ORSC-C, organization_name: unknown}
+- {address: 158.153.192.1, asn: AS0, cc: US, description: X-NAVSEACOM, organization_name: unknown}
+- {address: 64.28.146.92, asn: AS0, cc: US, description: Palm, organization_name: unknown}
+- {address: 26.2.5.220, asn: AS0, cc: US, description: X-DoD, organization_name: unknown}
+- {address: 199.233.185.254, asn: AS0, cc: US, description: X-Knowledge-Resources,
+  organization_name: unknown}
+- {address: 205.166.206.38, asn: AS0, cc: US, description: X-Old-GraniteCanyon, organization_name: unknown}
+- {address: 150.159.254.254, asn: AS0, cc: US, description: X-Unknown, organization_name: unknown}
+- {address: 192.245.52.1, asn: AS0, cc: US, description: X-Unknown, organization_name: unknown}

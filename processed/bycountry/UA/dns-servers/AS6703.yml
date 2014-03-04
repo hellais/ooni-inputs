@@ -1,0 +1,16 @@
+- {address: 213.186.192.2, asn: AS6703, cc: UA, description: DG, organization_name: PRIVATE
+    JOINT-STOCK COMPANY FARLEP-INVEST}
+- {address: 212.15.128.1, asn: AS6703, cc: UA, description: Eurocom Odessa, organization_name: PRIVATE
+    JOINT-STOCK COMPANY FARLEP-INVEST}
+- {address: 213.130.4.1, asn: AS6703, cc: UA, description: Farlep, organization_name: PRIVATE
+    JOINT-STOCK COMPANY FARLEP-INVEST}
+- {address: 213.130.0.1, asn: AS6703, cc: UA, description: Farlep, organization_name: PRIVATE
+    JOINT-STOCK COMPANY FARLEP-INVEST}
+- {address: 213.186.192.254, asn: AS6703, cc: UA, description: Mobi-GSM, organization_name: PRIVATE
+    JOINT-STOCK COMPANY FARLEP-INVEST}
+- {address: 195.248.191.67, asn: AS6703, cc: UA, description: !!python/str "\u0410\u043B\
+    \u044C\u043A\u0430\u0440\u0430", organization_name: PRIVATE JOINT-STOCK COMPANY
+    FARLEP-INVEST}
+- {address: 195.248.191.72, asn: AS6703, cc: UA, description: !!python/str "\u0410\u043B\
+    \u044C\u043A\u0430\u0440\u0430", organization_name: PRIVATE JOINT-STOCK COMPANY
+    FARLEP-INVEST}

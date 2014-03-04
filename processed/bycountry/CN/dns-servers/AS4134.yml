@@ -1,0 +1,71 @@
+- {address: 218.76.192.101, asn: AS4134, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7535\u4FE1", organization_name: Chinanet}
+- {address: 202.102.24.34, asn: AS4134, cc: CN, description: Nanjing Telecom, organization_name: Chinanet}
+- {address: 218.76.192.100, asn: AS4134, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7535\u4FE1", organization_name: Chinanet}
+- {address: 202.102.7.90, asn: AS4134, cc: CN, description: !!python/str "\u626C\u5DDE\
+    \u7535\u4FE1", organization_name: Chinanet}
+- {address: 202.102.3.144, asn: AS4134, cc: CN, description: !!python/str "Changzhou,\
+    \ Jiangsu\xC2\_", organization_name: Chinanet}
+- {address: 202.101.138.8, asn: AS4134, cc: CN, description: China Telecom Fujian,
+  organization_name: Chinanet}
+- {address: 202.97.7.17, asn: AS4134, cc: CN, description: Chinanet, organization_name: Chinanet}
+- {address: 202.97.7.6, asn: AS4134, cc: CN, description: Chinanet, organization_name: Chinanet}
+- {address: 61.128.114.133, asn: AS4134, cc: CN, description: cninfo xj, organization_name: Chinanet}
+- {address: 202.102.3.141, asn: AS4134, cc: CN, description: cz.js, organization_name: Chinanet}
+- {address: 202.96.144.47, asn: AS4134, cc: CN, description: gd shantou, organization_name: Chinanet}
+- {address: 61.178.40.8, asn: AS4134, cc: CN, description: GSPEC, organization_name: Chinanet}
+- {address: 211.155.27.88, asn: AS4134, cc: CN, description: GZIDC, organization_name: Chinanet}
+- {address: 61.187.191.3, asn: AS4134, cc: CN, description: Hunan Telecom, organization_name: Chinanet}
+- {address: 202.103.100.100, asn: AS4134, cc: CN, description: Loudi, organization_name: Chinanet}
+- {address: 202.103.188.28, asn: AS4134, cc: CN, description: shunde gd, organization_name: Chinanet}
+- {address: 220.170.64.68, asn: AS4134, cc: CN, description: Telecom Hunan, organization_name: Chinanet}
+- {address: 61.139.39.73, asn: AS4134, cc: CN, description: winecity, organization_name: Chinanet}
+- {address: 220.231.183.8, asn: AS4134, cc: CN, description: !!python/str "\u4E2D\u4EBA\
+    \u65B0\u7535\u4FE1", organization_name: Chinanet}
+- {address: 222.246.129.103, asn: AS4134, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7535\u4FE1 \u6E56\u5357\u7701 \u957F\u6C99\u5E02", organization_name: Chinanet}
+- {address: 202.102.24.35, asn: AS4134, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7535\u4FE1\u80A1\u4EFD\u6709\u9650\u516C\u53F8\u6C5F\u82CF", organization_name: Chinanet}
+- {address: 202.101.226.68, asn: AS4134, cc: CN, description: !!python/str "\u6C5F\u897F\
+    \u7535\u4FE1", organization_name: Chinanet}
+- {address: 61.139.44.68, asn: AS4134, cc: CN, description: !!python/str "\u81EA\u8D21\
+    \u5728\u7EBF", organization_name: Chinanet}
+- {address: 61.187.98.3, asn: AS4134, cc: CN, description: zzinfo, organization_name: Chinanet}
+- {address: 202.100.4.15, asn: AS4134, cc: CN, description: !!python/str "\u53E4\u57CE\
+    \u70ED\u7EBF", organization_name: Chinanet}
+- {address: 125.70.254.243, asn: AS4134, cc: CN, description: China Telecom Chengdu,
+  organization_name: Chinanet}
+- {address: 61.128.128.66, asn: AS4134, cc: CN, description: ChinaTelecom-66, organization_name: Chinanet}
+- {address: 61.128.128.67, asn: AS4134, cc: CN, description: ChinaTelecom-67, organization_name: Chinanet}
+- {address: 61.139.2.69, asn: AS4134, cc: CN, description: cninfo, organization_name: Chinanet}
+- {address: 202.96.102.3, asn: AS4134, cc: CN, description: CNInfo Zhejiang, organization_name: Chinanet}
+- {address: 202.101.172.142, asn: AS4134, cc: CN, description: DCHINANET-ZJ Hangzhou,
+  organization_name: Chinanet}
+- {address: 202.103.176.22, asn: AS4134, cc: CN, description: Maoming, organization_name: Chinanet}
+- {address: 202.98.96.68, asn: AS4134, cc: CN, description: sccdppt.net Chengdu, organization_name: Chinanet}
+- {address: 202.102.110.205, asn: AS4134, cc: CN, description: X-AS4134 Unknown, organization_name: Chinanet}
+- {address: 202.102.110.206, asn: AS4134, cc: CN, description: X-AS4134 Unknown, organization_name: Chinanet}
+- {address: 222.246.129.80, asn: AS4134, cc: CN, description: X-AS4134 Unknown, organization_name: Chinanet}
+- {address: 222.246.129.81, asn: AS4134, cc: CN, description: X-AS4134 Unknown, organization_name: Chinanet}
+- {address: 59.51.78.210, asn: AS4134, cc: CN, description: X-AS4134 Unknown, organization_name: Chinanet}
+- {address: 59.51.78.211, asn: AS4134, cc: CN, description: X-AS4134 Unknown, organization_name: Chinanet}
+- {address: 202.100.138.68, asn: AS4134, cc: CN, description: 'XiNing City, Qinhai',
+  organization_name: Chinanet}
+- {address: 61.187.98.6, asn: AS4134, cc: CN, description: Zzinfo, organization_name: Chinanet}
+- {address: 202.96.134.33, asn: AS4134, cc: CN, description: !!python/str "\u5E7F\u4E1C\
+    \u7535\u4FE1", organization_name: Chinanet}
+- {address: 202.101.172.35, asn: AS4134, cc: CN, description: !!python/str "\u676D\u5DDE\
+    \u7535\u4FE1", organization_name: Chinanet}
+- {address: 202.101.172.46, asn: AS4134, cc: CN, description: !!python/str "\u676D\u5DDE\
+    \u7535\u4FE1\u7684", organization_name: Chinanet}
+- {address: 61.128.99.133, asn: AS4134, cc: CN, description: cninfo xj, organization_name: Chinanet}
+- {address: 202.101.110.55, asn: AS4134, cc: CN, description: ndptt.fj, organization_name: Chinanet}
+- {address: 218.85.152.99, asn: AS4134, cc: CN, description: !!python/str "\u4E2D\u56FD\
+    \u7535\u4FE1\u80A1\u4EFD\u6709\u9650\u516C\u53F8\u53A6\u95E8\u5206\u516C\u53F8",
+  organization_name: Chinanet}
+- {address: 60.191.244.2, asn: AS4134, cc: CN, description: !!python/str "\u6D59\u6C5F\
+    \u7701\u6570\u636E\u901A\u4FE1\u5C40", organization_name: Chinanet}
+- {address: 202.101.98.55, asn: AS4134, cc: CN, description: !!python/str "\u798F\u5EFA\
+    \u70ED\u7EBF", organization_name: Chinanet}
+- {address: 222.170.64.68, asn: AS4134, cc: CN, description: X-Unknown, organization_name: Chinanet}

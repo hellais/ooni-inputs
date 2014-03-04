@@ -1,0 +1,64 @@
+- {address: 216.54.2.10, asn: AS22773, cc: US, description: CoxFiber, organization_name: Cox
+    Communications Inc.}
+- {address: 216.54.2.11, asn: AS22773, cc: US, description: CoxFiber, organization_name: Cox
+    Communications Inc.}
+- {address: 66.37.236.22, asn: AS22773, cc: US, description: SpeedNet, organization_name: Cox
+    Communications Inc.}
+- {address: 68.1.208.30, asn: AS22773, cc: US, description: COX, organization_name: Cox
+    Communications Inc.}
+- {address: 68.105.28.11, asn: AS22773, cc: US, description: Cox, organization_name: Cox
+    Communications Inc.}
+- {address: 68.1.18.25, asn: AS22773, cc: US, description: Cox AT, organization_name: Cox
+    Communications Inc.}
+- {address: 68.1.18.30, asn: AS22773, cc: US, description: Cox AT, organization_name: Cox
+    Communications Inc.}
+- {address: 68.9.16.30, asn: AS22773, cc: US, description: Cox Business, organization_name: Cox
+    Communications Inc.}
+- {address: 68.100.16.25, asn: AS22773, cc: US, description: Cox DC, organization_name: Cox
+    Communications Inc.}
+- {address: 68.100.16.30, asn: AS22773, cc: US, description: Cox DC, organization_name: Cox
+    Communications Inc.}
+- {address: 68.10.16.30, asn: AS22773, cc: US, description: Cox Herndon, organization_name: Cox
+    Communications Inc.}
+- {address: 68.111.16.25, asn: AS22773, cc: US, description: Cox Las Vegas, organization_name: Cox
+    Communications Inc.}
+- {address: 68.111.16.30, asn: AS22773, cc: US, description: Cox Las Vegas, organization_name: Cox
+    Communications Inc.}
+- {address: 68.1.18.237, asn: AS22773, cc: US, description: Cox MC, organization_name: Cox
+    Communications Inc.}
+- {address: 68.11.16.25, asn: AS22773, cc: US, description: Cox New Orleans, organization_name: Cox
+    Communications Inc.}
+- {address: 68.11.16.30, asn: AS22773, cc: US, description: Cox New Orleans, organization_name: Cox
+    Communications Inc.}
+- {address: 68.12.16.25, asn: AS22773, cc: US, description: Cox OK, organization_name: Cox
+    Communications Inc.}
+- {address: 68.12.16.30, asn: AS22773, cc: US, description: Cox OK, organization_name: Cox
+    Communications Inc.}
+- {address: 68.4.16.25, asn: AS22773, cc: US, description: Cox Oklahoma City, organization_name: Cox
+    Communications Inc.}
+- {address: 68.4.16.30, asn: AS22773, cc: US, description: Cox Oklahoma City, organization_name: Cox
+    Communications Inc.}
+- {address: 68.13.16.25, asn: AS22773, cc: US, description: Cox Omaha, organization_name: Cox
+    Communications Inc.}
+- {address: 68.13.16.30, asn: AS22773, cc: US, description: Cox Omaha, organization_name: Cox
+    Communications Inc.}
+- {address: 68.2.16.25, asn: AS22773, cc: US, description: Cox Phoenix, organization_name: Cox
+    Communications Inc.}
+- {address: 68.2.16.30, asn: AS22773, cc: US, description: Cox Phoenix, organization_name: Cox
+    Communications Inc.}
+- {address: 68.9.16.245, asn: AS22773, cc: US, description: Cox RI, organization_name: Cox
+    Communications Inc.}
+- {address: 68.9.16.25, asn: AS22773, cc: US, description: Cox RI, organization_name: Cox
+    Communications Inc.}
+- {address: 209.242.128.100, asn: AS22773, cc: US, description: Cox SD, organization_name: Cox
+    Communications Inc.}
+- {address: 209.242.128.101, asn: AS22773, cc: US, description: Cox SD, organization_name: Cox
+    Communications Inc.}
+- {address: 68.6.16.25, asn: AS22773, cc: US, description: Cox SD, organization_name: Cox
+    Communications Inc.}
+- {address: 68.6.16.30, asn: AS22773, cc: US, description: Cox SD, organization_name: Cox
+    Communications Inc.}
+- {address: 68.10.16.25, asn: AS22773, cc: US, description: Cox Herndon, organization_name: Cox
+    Communications Inc.}
+- {address: 68.5.29.136, asn: AS22773, cc: US, description: X-Cox Home User, organization_name: Cox
+    Communications Inc.}

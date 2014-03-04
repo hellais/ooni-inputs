@@ -1,0 +1,10 @@
+- {address: 200.176.2.75, asn: AS11706, cc: BR, description: Terra, organization_name: Terra
+    Networks Brasil S.A.}
+- {address: 200.176.3.130, asn: AS11706, cc: BR, description: Terra, organization_name: Terra
+    Networks Brasil S.A.}
+- {address: 200.177.2.10, asn: AS11706, cc: BR, description: X-Terra-Dyn, organization_name: Terra
+    Networks Brasil S.A.}
+- {address: 200.177.2.20, asn: AS11706, cc: BR, description: X-Terra-Dyn, organization_name: Terra
+    Networks Brasil S.A.}
+- {address: 200.176.254.10, asn: AS11706, cc: BR, description: X-Terra-Unknown, organization_name: Terra
+    Networks Brasil S.A.}

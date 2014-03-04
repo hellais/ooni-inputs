@@ -1,0 +1,10 @@
+- {address: 211.202.2.4, asn: AS9318, cc: KR, description: Blueweb, organization_name: Hanaro
+    Telecom Inc.}
+- {address: 218.232.110.36, asn: AS9318, cc: KR, description: Ngene, organization_name: Hanaro
+    Telecom Inc.}
+- {address: 218.232.110.37, asn: AS9318, cc: KR, description: Ngene, organization_name: Hanaro
+    Telecom Inc.}
+- {address: 210.180.98.69, asn: AS9318, cc: KR, description: !!python/str "\uD558\uB098\
+    \uD3EC\uC2A4", organization_name: Hanaro Telecom Inc.}
+- {address: 221.139.13.130, asn: AS9318, cc: KR, description: !!python/str "\uD558\uB098\
+    \uD3EC\uC2A4", organization_name: Hanaro Telecom Inc.}

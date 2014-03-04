@@ -1,0 +1,10 @@
+- {address: 165.76.0.243, asn: AS4725, cc: JP, description: AT&T Japan, organization_name: SOFTBANK
+    TELECOM Corp.}
+- {address: 165.76.16.2, asn: AS4725, cc: JP, description: AT&T Tokyo, organization_name: SOFTBANK
+    TELECOM Corp.}
+- {address: 165.76.4.2, asn: AS4725, cc: JP, description: Spin.AD.JP, organization_name: SOFTBANK
+    TELECOM Corp.}
+- {address: 165.76.8.2, asn: AS4725, cc: JP, description: Tokyo.Spin.AD.JP, organization_name: SOFTBANK
+    TELECOM Corp.}
+- {address: 165.76.3.2, asn: AS4725, cc: JP, description: Yokohama.Spin.AD.JP, organization_name: SOFTBANK
+    TELECOM Corp.}

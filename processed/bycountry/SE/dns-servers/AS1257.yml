@@ -1,0 +1,15 @@
+- {address: 193.13.15.11, asn: AS1257, cc: SE, description: LandsKrona, organization_name: TELE2}
+- {address: 193.12.150.2, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 193.12.150.6, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 212.247.152.6, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 212.247.152.2, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 193.216.69.12, asn: AS1257, cc: SE, description: Tele2/Dax, organization_name: TELE2}
+- {address: 193.216.69.13, asn: AS1257, cc: SE, description: Tele2/Dax, organization_name: TELE2}
+- {address: 130.244.127.161, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 130.244.127.169, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 193.12.150.14, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 193.12.150.26, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 212.247.152.14, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 212.247.152.26, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 212.247.156.66, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}
+- {address: 212.247.156.70, asn: AS1257, cc: SE, description: Tele2, organization_name: TELE2}

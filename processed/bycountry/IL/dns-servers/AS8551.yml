@@ -1,0 +1,6 @@
+- {address: 192.115.106.10, asn: AS8551, cc: IL, description: !!python/str "\u05D1\u05D6\
+    \u05E7 \u05D1\u05D9\u05E0\u05DC\u05D0\u05D5\u05DE\u05D9", organization_name: Bezeqint
+    Internet Backbone}
+- {address: 192.115.106.11, asn: AS8551, cc: IL, description: !!python/str "\u05D1\u05D6\
+    \u05E7 \u05D1\u05D9\u05E0\u05DC\u05D0\u05D5\u05DE\u05D9", organization_name: Bezeqint
+    Internet Backbone}

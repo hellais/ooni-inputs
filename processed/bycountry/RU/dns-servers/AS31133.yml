@@ -1,0 +1,6 @@
+- {address: 83.149.16.7, asn: AS31133, cc: RU, description: !!python/str "\u041C\u0435\
+    \u0433\u0430\u0424\u043E\u043D", organization_name: OJSC MegaFon}
+- {address: 83.149.19.123, asn: AS31133, cc: RU, description: !!python/str "\u041C\u0435\
+    \u0433\u0430\u0424\u043E\u043D", organization_name: OJSC MegaFon}
+- {address: 83.149.19.124, asn: AS31133, cc: RU, description: !!python/str "\u041C\u0435\
+    \u0433\u0430\u0424\u043E\u043D", organization_name: OJSC MegaFon}

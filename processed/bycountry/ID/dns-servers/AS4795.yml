@@ -1,0 +1,14 @@
+- {address: 202.155.46.77, asn: AS4795, cc: ID, description: Indosat, organization_name: INDOSATM2
+    ASN}
+- {address: 202.155.46.66, asn: AS4795, cc: ID, description: Indosat-M3, organization_name: INDOSATM2
+    ASN}
+- {address: 202.155.14.251, asn: AS4795, cc: ID, description: Telkomsel, organization_name: INDOSATM2
+    ASN}
+- {address: 202.155.14.253, asn: AS4795, cc: ID, description: Telkomsel, organization_name: INDOSATM2
+    ASN}
+- {address: 202.155.0.10, asn: AS4795, cc: ID, description: Indosat, organization_name: INDOSATM2
+    ASN}
+- {address: 202.155.0.15, asn: AS4795, cc: ID, description: Indosat, organization_name: INDOSATM2
+    ASN}
+- {address: 202.155.0.20, asn: AS4795, cc: ID, description: Indosat, organization_name: INDOSATM2
+    ASN}
